@@ -1,0 +1,7 @@
+Line no 1: TOKEN <LCURL> Lexeme { found
+Line no 1: TOKEN <RCURL> Lexeme } found
+Line no 3: TOKEN <LTHIRD> Lexeme [ found
+Line no 3: TOKEN <RTHIRD> Lexeme ] found
+Line no 5: TOKEN <LPAREN> Lexeme ( found
+Line no 5: TOKEN <NOT> Lexeme ! found
+Line no 5: TOKEN <RPAREN> Lexeme ) found
